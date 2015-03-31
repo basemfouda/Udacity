@@ -1,0 +1,30 @@
+.row {	
+	margin-bottom: 3%;
+	/* To separate the rows to avoid clutter*/
+}
+
+#header {
+	margin-top: 2%;
+	/* To get space above the header */
+	margin-bottom: 2%;
+	padding-bottom: 1%;
+	/* To leave space for the border*/
+	border-bottom: 2px solid #BCBBBB;
+}
+
+img {
+	border-radius: 2%;
+}
+
+* {
+	font-family: 'Lato', sans-serif;
+	/* The main font of the page */
+}
+
+.small-image {
+	margin:auto;
+}
+
+#sub-heading {
+	margin:auto; 
+}
